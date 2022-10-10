@@ -30,4 +30,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shivamkumar9621&show_icons=true&layout=compact"/>
 </div><br>
 
-<h1 align="center">Credits &copy <a href="https://github.com/shahidhussain07/shahidhussain07">SHAHID HUSSAIN</a></h1>
+<p align="center">Credits &copy <a href="https://github.com/shahidhussain07/shahidhussain07">SHAHID HUSSAIN</a></p>
