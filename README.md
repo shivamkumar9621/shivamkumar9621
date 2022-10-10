@@ -32,5 +32,6 @@
   &nbsp;
   <h1>:chart_with_upwards_trend: GitHub Stats:</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=shahidhussain07&show_icons=true&layout=compact"/>
-</div>
+</div><br>
 
+<h1 align="center">Credits &copy <a href="https://github.com/shahidhussain07/shahidhussain07">SHAHID HUSSAIN</a></h1>
